@@ -38,21 +38,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kali2005-star&show_icons=true&theme=radical)
-
-## 🏆 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kali2005-star&layout=compact&theme=radical)
 
 
 ## 📫 How to Reach Me
-- Email: your.email@example.com
-- LinkedIn: [Your Name](https://linkedin.com/in/kaleshwar-lakaram)
-- Portfolio: [Your Portfolio](https://kaliportfolio.ccbp.tech/)
-
-
+- Email: kaleshwarlakaram2005@gmail.com
+- LinkedIn: [Kaleshwar Lakaram](https://linkedin.com/in/kaleshwar-lakaram)
+- Portfolio: [My Portfolio](https://kaliportfolio.ccbp.tech/)
 
 
 
