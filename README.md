@@ -3,7 +3,7 @@
 ## 🚀 Frontend Developer | UI/UX Enthusiast | Problem Solver
 
 [![GitHub followers](https://img.shields.io/github/followers/kali2005-star?label=Follow&style=social)](https://github.com/kali2005-star)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/kaleshwar-lakaram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/kaleshwar-lakaram](https://www.linkedin.com/in/kaleshwar-lakaram-8658502b5/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://kaliportfolio.ccbp.tech/)
 
 ## 💫 About Me
@@ -42,7 +42,7 @@
 
 ## 📫 How to Reach Me
 - Email: kaleshwarlakaram2005@gmail.com
-- LinkedIn: [Kaleshwar Lakaram](https://linkedin.com/in/kaleshwar-lakaram)
+- LinkedIn: [Kaleshwar Lakaram]([https://linkedin.com/in/kaleshwar-lakaram](https://www.linkedin.com/in/kaleshwar-lakaram-8658502b5/))
 - Portfolio: [My Portfolio](https://kaliportfolio.ccbp.tech/)
 
 
