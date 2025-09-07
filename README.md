@@ -26,6 +26,10 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React JS](https://img.shields.io/badge/React-328ba8?style=for-the-badge&logo=react&logoColor=white)
 
+### Backend
+
+![Node JS](https://img.shields.io/badge/Node-32a856?style=for-the-badge&logo=node&logoColor=white)
+
 
 
 
