@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kaleshwar Lakaram
 
-## 🚀 Frontend Developer | UI/UX Enthusiast | Problem Solver
+## 🚀 Fullstack Developer | UI/UX Enthusiast | Problem Solver
 
 [![GitHub followers](https://img.shields.io/github/followers/kaleshwar-2005?label=Follow&style=social)](https://github.com/kaleshwar-2005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/kaleshwar-lakaram))
