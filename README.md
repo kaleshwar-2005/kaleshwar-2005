@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/kaleshwar-2005?label=Follow&style=social)](https://github.com/kaleshwar-2005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/kaleshwar-lakaram))
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://kaliportfolio.ccbp.tech/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://portfolio-0ywu.onrender.com/)
 
 ## 💫 About Me
 - 🔭 I'm passionate about creating responsive and user-friendly web applications
