@@ -46,6 +46,10 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![N8N](https://img.shields.io/badge/n8n-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kaleshwar-2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kaleshwar-2005&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleshwar-2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 📫 How to Reach Me
