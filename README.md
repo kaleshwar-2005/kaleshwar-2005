@@ -1,10 +1,16 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Kaleshwar+Lakaram;Fullstack+Developer;AI+%7C+LLM+Enthusiast;Building+Cool+Projects+🚀" />
+</p>
+
 # 👋 Hi there, I'm Kaleshwar Lakaram
 
 ## 🚀 Fullstack Developer | UI/UX Enthusiast | Problem Solver
 
+![Profile Views](https://komarev.com/ghpvc/?username=kaleshwar-2005&label=Profile%20views&color=0e75b6&style=for-the-badge)
+
 [![GitHub followers](https://img.shields.io/github/followers/kaleshwar-2005?label=Follow&style=social)](https://github.com/kaleshwar-2005)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/kaleshwar-lakaram)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://portfolio-0ywu.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaleshwar-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/kaleshwar-lakaram)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-0ywu.onrender.com/)
 
 ---
 
@@ -62,6 +68,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=kaleshwar-2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kaleshwar-2005&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleshwar-2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![Kaleshwar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaleshwar-2005&theme=react-dark&hide_border=true)](https://github.com/kaleshwar-2005)
 
 ---
 
